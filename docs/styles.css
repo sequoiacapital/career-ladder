@@ -1388,7 +1388,7 @@ a {
 [jump-to-id],
 [router-link] {
     cursor: pointer;
-    color: #4078c0
+    color: #50B557
 }
 [jump-to-id]:hover,
 [router-link]:hover {
@@ -1936,3 +1936,31 @@ a {
     color: #50B557
 }
 /*# sourceMappingURL=docute.css.map*/
+
+
+.lp-container {
+  background-image: url("./assets/grit-green.jpg");
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lp-content {
+  padding: 20px;
+  width: 500px;
+}
+
+.landing {
+  margin-top: -20px;
+  margin-bottom: -20px;
+}
+
+.logo {
+  width: 50px;
+}
+
+.white {
+  color: white;
+}
