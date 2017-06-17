@@ -624,7 +624,8 @@
     margin: .67em 0
 }
 .markdown-body img {
-    border-style: none
+    border-style: none;
+    padding: 40px 0;
 }
 .markdown-body svg:not(:root) {
     overflow: hidden
@@ -1949,7 +1950,7 @@ a {
 
 .lp-content {
   padding: 20px;
-  width: 500px;
+  width: 600px;
 }
 
 .landing {
@@ -1963,4 +1964,32 @@ a {
 
 .white {
   color: white;
+}
+
+.button {
+  text-transform: uppercase;
+  color: white;
+  border: 1px solid #fff;
+  padding: 20px 30px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin: 30px 0;
+  display: inline-block;
+}
+
+.lp-headline {
+  font-size: 36px;
+}
+
+.lp-copy {
+  font-size: 18px;
+  line-height: 1.4;
+  font-weight: 300;
+
+}
+
+.button:hover {
+  background-color: white;
+  color: #50b855;
+  transition: all ease 0.3s;
 }
