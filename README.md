@@ -1,6 +1,6 @@
 # Open Source Design Ladder
 
-![alt text](./readme.png)
+![alt text](./overview.png)
 
 Sequoia Creative Lab's open source career ladder guide. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
