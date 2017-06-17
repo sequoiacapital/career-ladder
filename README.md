@@ -1,6 +1,6 @@
 # Open Source Design Ladder
 
-Job Descriptions and Paths for Growth
+Sequoia Creative Lab's open source career ladder guide. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
 ## Framework
 
@@ -64,7 +64,7 @@ docute.init({
 ```
 
 
-### Deploy to GitHub
+## Deploy to GitHub
 
 There are three places to populate your docs:
 
