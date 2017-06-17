@@ -6,14 +6,14 @@ Job Descriptions and Paths for Growth
 
 The career ladder uses [Docute.js](https://docute.js.org/#/home), built on [Vue.js](https://vuejs.org/), to build out the career ladder documentation style.
 
-The content of the site lives in the `readme.md` markdown file in the `docs` folder. For tips on writing markdown, check out this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
 Docute allows us to
 - Automatically build out the table of contents in the sidebar
 - Track scroll depth and highlight corresponding section in the sidebar.
 - Create anchor links for each heading.
 - Handle basic scroll animations.
 - Set up a separate landing page.
+
+The content of the site lives in the `readme.md` markdown file in the `docs` folder. For tips on writing markdown, check out this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ### Quick Start
 
@@ -52,7 +52,6 @@ docute.init({
 ```
 
 ### Landing page
-#### Advanced usage
 
 The `landing` page is set as an object in the config:
 
@@ -63,3 +62,16 @@ docute.init({
   }
 })
 ```
+
+
+### Deploy to GitHub
+
+There are three places to populate your docs:
+
+- `./docs` folder
+- master branch
+- gh-pages branch
+
+Just select it in repo's settings page after pushed files:
+
+<img src="https://docute.js.org/assets/deploy.png" alt="deploy" width="500">
